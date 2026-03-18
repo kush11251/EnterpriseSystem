@@ -1,0 +1,4 @@
+database:
+  connectionString: "localhost:5432"
+user:
+  name: "John Doe"
